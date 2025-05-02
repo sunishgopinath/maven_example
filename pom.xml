@@ -1,5 +1,0 @@
- <dependency>
-        <groupId><yourGroupID></groupId>
-        <artifactId><yourArtifactId></artifactId>
-        <version><yourVersion></version>
-    </dependency>
